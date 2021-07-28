@@ -35,4 +35,4 @@ To view on a local machine, pull the code from my GitHub using Git (or Terminal)
 
 npm install
 
-Git clone link: https://github.com/congmul/graphQL_practice.git
+Git clone link: https://github.com/congmul/display_book_list_GraphQL
